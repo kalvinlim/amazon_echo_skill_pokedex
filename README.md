@@ -58,7 +58,7 @@ Proof of concept for Alexa Skills Kit.  This custom skill hooks into Pokeapi (ht
 
 ### Local testing
 
-* Alexa App Server (https://github.com/matt-kruse/alexa-app)- Place this repo into the /examples/apps directory then run
+* Alexa App Server (https://github.com/matt-kruse/alexa-app-server) - Place this repo into the /examples/apps directory then run
 ```
 > node server
 ```
